@@ -1,0 +1,6 @@
+// default.json
+
+{
+    "mongoURI":
+      "mongodb+srv://tomlm13:Paintball1@cluster0.idg3cpe.mongodb.net/?retryWrites=true&w=majority"
+}
